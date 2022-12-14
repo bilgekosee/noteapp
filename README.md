@@ -23,6 +23,10 @@ Login register arayüzü ile şifreli bir şekilde not tutma imkanı sağlayan u
 ![Screenshot (64)](https://user-images.githubusercontent.com/76417507/207678758-670fa136-f206-446b-b532-c6b72d76fd56.png)
 
 `npm install @nhost/vue @nhost/apollo @apollo/client graphql @vue/apollo-composable`
+
 `npm i vue-router`
+
 `npm install -D tailwindcss postcss autoprefixer`
+
 `npx tailwindcss init -p`
+
